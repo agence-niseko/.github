@@ -1,7 +1,5 @@
 # README.md
 
-## About Niseko
-
 **Niseko** is a Swiss data and web agency located in Crissier, near Lausanne, specializing in creating custom digital solutions that combine creativity, technology, and data intelligence.
 
 ### What We Do
@@ -33,3 +31,4 @@ We integrate artificial intelligence and data analytics into your tools to save 
 **Legal Structure:** Niseko Sàrl
 
 🧠 At Niseko, we believe that exceptional digital experiences are born from the perfect marriage of technical expertise, creative vision, and data-driven insights. Our compact team ensures direct communication and personalized attention for every project, while our location in the dynamic Lausanne region keeps us connected to Switzerland's vibrant tech ecosystem.
+
